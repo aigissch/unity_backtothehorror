@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/EscenaInicio/escenaInicio.unity
+    guid: 298a860fae346684cac77510492c010b
+  - enabled: 1
+    path: Assets/EscenaInicio/escenaInicio2.unity
+    guid: bd5a05140fdca8049baf95208e2b4812
+  - enabled: 1
+    path: Assets/EscenaInicio/escenaInicio3.unity
+    guid: 9dded1423ee942b4fa39184d007afade
+  - enabled: 1
+    path: Assets/EscenaCentral/escenaCentral.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/EscenaPuerta/escenaPuerta.unity
+    guid: 460547e21a5e64b44855763d77ae5ff8
+  - enabled: 1
+    path: Assets/EscenaBosque/escenaBosque.unity
+    guid: 906deb4bd356ba84ea1321e696d4589c
+  - enabled: 1
+    path: Assets/EscenaAlcantarilla/escenaAlcantarilla.unity
+    guid: ce6adba435119b241950d8b637780357
+  - enabled: 1
+    path: Assets/EscenaCielo/EscenaCielo.unity
+    guid: 20f972fe33d4c46e49e0c2e4c68e74e9
+  - enabled: 1
+    path: Assets/EscenaMuerte/escenaMuerte.unity
+    guid: 685921f2a8b88d0428d703019cec2342
+  - enabled: 1
+    path: Assets/EscenaFinal/escenaFinal.unity
+    guid: 124375eff73fb014e858a6508ed3a10a
+  m_configObjects: {}

@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Suelo
+  - Marty
+  - Chucky
+  - Pared
+  - ChuckyTop
+  - Cofre
+  - SujetarMoneda
+  - Puerta
+  - Jason
+  - Plutonio
+  - Arbusto
+  - Ventana
+  - AlBosque
+  - Escalera
+  - ConosBosque
+  - PluTotal
+  - Vida
+  - Delorean
+  - Tomate
+  - Azotea
+  - Plataforma
+  - Critter1
+  - Critter2
+  - Alcantarilla
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Marty
+  - Chucky
+  - Puerta
+  - Critter1
+  - Critter2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
